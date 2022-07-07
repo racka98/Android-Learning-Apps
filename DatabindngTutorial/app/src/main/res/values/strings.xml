@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Databinding Tutorial</string>
+    <string name="some_random_fruit_text">Some Random Fruit</string>
+    <string name="enter_fruit_name_edittext">Enter a fruit name</string>
+</resources>

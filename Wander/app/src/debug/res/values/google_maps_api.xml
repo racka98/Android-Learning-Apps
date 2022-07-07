@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=2C:20:B0:C8:E8:CC:CF:2C:99:01:89:8F:0E:7D:02:D1:3E:72:B5:0E%3Bwork.racka.wander
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    work.racka.wander
+
+    SHA-1 certificate fingerprint:
+    2C:20:B0:C8:E8:CC:CF:2C:99:01:89:8F:0E:7D:02:D1:3E:72:B5:0E
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBR4hZo3_oTaqRUciCzPpM_stveOyq0vyo</string>
+</resources>
